@@ -1,0 +1,29 @@
+{
+    "ukrainian": {
+        "title": "Українська",
+        "codepoints": "абвгґдеєжзиіїйклмнопрстуфхцчшщьюяАБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ",
+        "dictionary": {
+            "title": "Одержимість.",
+            "intro_blinking_text": "Натисни SPACE щоб почати!",
+            "title_settings": "Налаштування",
+            "button_begin": "ПОЧАТОК",
+            "button_settings": "НАЛАШТУВАННЯ",
+            "button_exit": "ВИХІД",
+            "slider_cursor_smoothing": "Згладжування курсору",
+            "slider_cursor_speed": "Швидкість курсору",
+            "slider_circles_count": "Кількість кіл",
+            "slider_circles_narrowing_speed": "Швидкість звуження кіл",
+            "button_fullscreen": "Повноекранний режим",
+            "button_hard_mode": "Тяжкий режим",
+            "title_hard_mode": "Тяжкий режим",
+            "button_use": "ЗАСТОСУВАТИ",
+            "button_close": "ЗАКРИТИ",
+            "title_game_press_space": "Натисни SPACE щоб почати!",
+            "text_game_press_esc": "Або ESC щоб програти...",
+            "text_game_score": "Рахунок",
+            "title_game_lose": "Журба!",
+            "title_game_win": "Ви перемогли!",
+            "text_game_result_helper": "ESC - до головного меню    R - перезапуск"
+        }
+    }
+}
