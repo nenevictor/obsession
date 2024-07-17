@@ -17,5 +17,4 @@ debug:
 	$(app_name)_d
 
 product:
-	clear
 	g++ -Ofast -Wall -Wextra -std=c++11 -I$(include_path) -L$(lib_path) $(src_files) -o $(app_name) $(libs) -mwindows
