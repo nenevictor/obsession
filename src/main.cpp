@@ -1,4 +1,4 @@
-#include "../src/OApp.hpp"
+#include "OApp.hpp"
 
 int main(int _argc, char const *_argv[])
 {
