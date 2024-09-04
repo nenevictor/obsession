@@ -194,8 +194,8 @@ i32_t OApp::run()
 		// Update.
 		{
 			this->window_quit = WindowShouldClose();
-			this->window_size.x = GetScreenWidth();
-			this->window_size.y = GetScreenHeight();
+			this->window_size.x = GetRenderWidth();
+			this->window_size.y = GetRenderHeight();
 
 			if (!IsWindowFullscreen())
 			{
